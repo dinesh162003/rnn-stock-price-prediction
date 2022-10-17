@@ -32,8 +32,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 ## PROGRAM
 
 ```
-Developed by: B.Kavya
-Register no.:212220230007
+Developed by: Dinesh.S
+Register no.:212220230011
 
 import numpy as np
 import matplotlib.pyplot as plt
